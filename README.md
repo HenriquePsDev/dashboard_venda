@@ -16,4 +16,18 @@ Este projeto foi construído com foco em **prática real** de análise de dados 
 - Python  
 - Streamlit  
 - Pandas  
-- Plotly  
+- Plotly
+
+- # 🛒 Dashboard de Vendas
+Um dashboard interativo para análise de vendas, desenvolvido com **Streamlit**, **Pandas** e **Plotly**.
+
+## 🌐 Acesse o app online
+[🚀 Abrir Dashboard no Streamlit Cloud](https://btbmyothmr8n7vf5v8j6ah.streamlit.app/dataframe)
+> **Observação:**  
+> O primeiro carregamento pode demorar alguns segundos, pois o servidor precisa "acordar". Isso é normal e só ocorre na inicialização.
+
+### 📊 Funcionalidades
+- Visualização de receita por mês e por estado
+- Gráficos interativos com Plotly
+- Métricas de vendas e receita em tempo real
+
